@@ -1,0 +1,5 @@
+Link for downloading the dataset for indian currency notes:
+https://www.mediafire.com/file/1aa78vcs4zbkx8o/indian_currency_dataset.zip/file
+
+Link for downloading pre-trained model:
+https://www.mediafire.com/file/6s6ewuhvhj16ov8/MiniProject.h5/file
